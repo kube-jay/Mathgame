@@ -45,6 +45,7 @@ public class Main {
                 System.out.println("Game Over! 1.continue 2.end ");
                 int res = cin.nextInt();
                 if (res== 2) quit=false;
+
             }
 
         }while (quit);
